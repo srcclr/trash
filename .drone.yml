@@ -1,6 +1,6 @@
 workspace:
   base: /go
-  path: src/github.com/rancher/trash
+  path: src/github.com/srcclr/trash
 
 pipeline:
   build:
